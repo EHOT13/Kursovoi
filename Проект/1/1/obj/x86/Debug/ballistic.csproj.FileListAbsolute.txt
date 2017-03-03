@@ -1,0 +1,10 @@
+E:\!studies\Курсач\Kursach\Проект\1\1\bin\x86\Debug\1.exe.config
+E:\!studies\Курсач\Kursach\Проект\1\1\bin\x86\Debug\bd_2003.mdb
+E:\!studies\Курсач\Kursach\Проект\1\1\bin\x86\Debug\1.exe
+E:\!studies\Курсач\Kursach\Проект\1\1\bin\x86\Debug\1.pdb
+E:\!studies\Курсач\Kursach\Проект\1\1\obj\x86\Debug\_1.Form1.resources
+E:\!studies\Курсач\Kursach\Проект\1\1\obj\x86\Debug\_1.Properties.Resources.resources
+E:\!studies\Курсач\Kursach\Проект\1\1\obj\x86\Debug\ballistic.csproj.GenerateResource.Cache
+E:\!studies\Курсач\Kursach\Проект\1\1\obj\x86\Debug\1.exe
+E:\!studies\Курсач\Kursach\Проект\1\1\obj\x86\Debug\1.pdb
+E:\!studies\Курсач\Kursach\Проект\1\1\obj\x86\Debug\ballistic.csprojResolveAssemblyReference.cache
